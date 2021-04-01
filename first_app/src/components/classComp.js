@@ -7,8 +7,8 @@ export class clc extends React.Component{
     }
 }
 
-export class clc1 extends React.Component{
-    render (){
-        return <p>this is class try222</p>;
-    }
-}
+// export class clc1 extends React.Component{
+//     render (){
+//         return <p>this is class try222</p>;
+//     }
+// }
